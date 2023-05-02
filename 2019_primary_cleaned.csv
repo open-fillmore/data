@@ -1,0 +1,176 @@
+ED_RAW,ED,YEAR,ELECTION,CANDIDATE,PARTY,VOTES_RAW,SHARE,VOTES_EST
+FIL 1,FIL 001,2019,Primary,Mitch Nowakowski,Democratic,54,1,54
+FIL 1,FIL 001,2019,Primary,Gerhardt J. Yaskow,Democratic,34,1,34
+FIL 1,FIL 001,2019,Primary,Tina Sanders,Democratic,10,1,10
+FIL 1,FIL 001,2019,Primary,Pharoah V. Paige,Democratic,1,1,1
+FIL 1,FIL 001,2019,Primary,"Blank, Void & Scattering",N/A,0,1,0
+FIL 3,FIL 003,2019,Primary,Mitch Nowakowski,Democratic,32,1,32
+FIL 3,FIL 003,2019,Primary,Gerhardt J. Yaskow,Democratic,9,1,9
+FIL 3,FIL 003,2019,Primary,Tina Sanders,Democratic,9,1,9
+FIL 3,FIL 003,2019,Primary,"Blank, Void & Scattering",N/A,0,1,0
+FIL 3,FIL 003,2019,Primary,Pharoah V. Paige,Democratic,0,1,0
+FIL 5,FIL 005,2019,Primary,Mitch Nowakowski,Democratic,48,1,48
+FIL 5,FIL 005,2019,Primary,Gerhardt J. Yaskow,Democratic,19,1,19
+FIL 5,FIL 005,2019,Primary,Tina Sanders,Democratic,11,1,11
+FIL 5,FIL 005,2019,Primary,Pharoah V. Paige,Democratic,5,1,5
+FIL 5,FIL 005,2019,Primary,"Blank, Void & Scattering",N/A,0,1,0
+FIL 8,FIL 008,2019,Primary,Mitch Nowakowski,Democratic,69,1,69
+FIL 8,FIL 008,2019,Primary,Gerhardt J. Yaskow,Democratic,56,1,56
+FIL 8,FIL 008,2019,Primary,Tina Sanders,Democratic,17,1,17
+FIL 8,FIL 008,2019,Primary,Pharoah V. Paige,Democratic,14,1,14
+FIL 8,FIL 008,2019,Primary,"Blank, Void & Scattering",N/A,2,1,2
+FIL 9,FIL 009,2019,Primary,Pharoah V. Paige,Democratic,26,1,26
+FIL 9,FIL 009,2019,Primary,Tina Sanders,Democratic,12,1,12
+FIL 9,FIL 009,2019,Primary,Mitch Nowakowski,Democratic,3,1,3
+FIL 9,FIL 009,2019,Primary,"Blank, Void & Scattering",N/A,0,1,0
+FIL 9,FIL 009,2019,Primary,Gerhardt J. Yaskow,Democratic,0,1,0
+FIL 10,FIL 010,2019,Primary,Pharoah V. Paige,Democratic,38,1,38
+FIL 10,FIL 010,2019,Primary,Tina Sanders,Democratic,24,1,24
+FIL 10,FIL 010,2019,Primary,Mitch Nowakowski,Democratic,11,1,11
+FIL 10,FIL 010,2019,Primary,Gerhardt J. Yaskow,Democratic,10,1,10
+FIL 10,FIL 010,2019,Primary,"Blank, Void & Scattering",N/A,4,1,4
+FIL 14 ,FIL 014,2019,Primary,Gerhardt J. Yaskow,Democratic,62,1,62
+FIL 14 ,FIL 014,2019,Primary,Mitch Nowakowski,Democratic,30,1,30
+FIL 14 ,FIL 014,2019,Primary,Tina Sanders,Democratic,2,1,2
+FIL 14 ,FIL 014,2019,Primary,Pharoah V. Paige,Democratic,1,1,1
+FIL 14 ,FIL 014,2019,Primary,"Blank, Void & Scattering",N/A,0,1,0
+FIL 16,FIL 016,2019,Primary,Gerhardt J. Yaskow,Democratic,13,1,13
+FIL 16,FIL 016,2019,Primary,Mitch Nowakowski,Democratic,3,1,3
+FIL 16,FIL 016,2019,Primary,Pharoah V. Paige,Democratic,1,1,1
+FIL 16,FIL 016,2019,Primary,Tina Sanders,Democratic,1,1,1
+FIL 16,FIL 016,2019,Primary,"Blank, Void & Scattering",N/A,0,1,0
+FIL 17,FIL 017,2019,Primary,Gerhardt J. Yaskow,Democratic,2,1,2
+FIL 17,FIL 017,2019,Primary,Mitch Nowakowski,Democratic,2,1,2
+FIL 17,FIL 017,2019,Primary,"Blank, Void & Scattering",N/A,1,1,1
+FIL 17,FIL 017,2019,Primary,Pharoah V. Paige,Democratic,0,1,0
+FIL 17,FIL 017,2019,Primary,Tina Sanders,Democratic,0,1,0
+FIL 19,FIL 019,2019,Primary,Gerhardt J. Yaskow,Democratic,59,1,59
+FIL 19,FIL 019,2019,Primary,Mitch Nowakowski,Democratic,17,1,17
+FIL 19,FIL 019,2019,Primary,"Blank, Void & Scattering",N/A,4,1,4
+FIL 19,FIL 019,2019,Primary,Tina Sanders,Democratic,1,1,1
+FIL 19,FIL 019,2019,Primary,Pharoah V. Paige,Democratic,0,1,0
+FIL 31,FIL 031,2019,Primary,Tina Sanders,Democratic,20,1,20
+FIL 31,FIL 031,2019,Primary,Mitch Nowakowski,Democratic,11,1,11
+FIL 31,FIL 031,2019,Primary,Gerhardt J. Yaskow,Democratic,8,1,8
+FIL 31,FIL 031,2019,Primary,"Blank, Void & Scattering",N/A,3,1,3
+FIL 31,FIL 031,2019,Primary,Pharoah V. Paige,Democratic,3,1,3
+FIL 11 (35),FIL 011,2019,Primary,Tina Sanders,Democratic,96,0.795694557,76.3866775
+FIL 11 (35),FIL 011,2019,Primary,Pharoah V. Paige,Democratic,54,0.795694557,42.96750609
+FIL 11 (35),FIL 011,2019,Primary,Gerhardt J. Yaskow,Democratic,22,0.795694557,17.50528026
+FIL 11 (35),FIL 011,2019,Primary,Mitch Nowakowski,Democratic,16,0.795694557,12.73111292
+FIL 11 (35),FIL 011,2019,Primary,"Blank, Void & Scattering",N/A,4,0.795694557,3.182778229
+FIL 11 (35),FIL 035,2019,Primary,Tina Sanders,Democratic,96,0.204305443,19.6133225
+FIL 11 (35),FIL 035,2019,Primary,Pharoah V. Paige,Democratic,54,0.204305443,11.03249391
+FIL 11 (35),FIL 035,2019,Primary,Gerhardt J. Yaskow,Democratic,22,0.204305443,4.49471974
+FIL 11 (35),FIL 035,2019,Primary,Mitch Nowakowski,Democratic,16,0.204305443,3.268887084
+FIL 11 (35),FIL 035,2019,Primary,"Blank, Void & Scattering",N/A,4,0.204305443,0.817221771
+FIL 12 (13),FIL 012,2019,Primary,Mitch Nowakowski,Democratic,115,0.101382488,11.65898618
+FIL 12 (13),FIL 012,2019,Primary,Gerhardt J. Yaskow,Democratic,33,0.101382488,3.34562212
+FIL 12 (13),FIL 012,2019,Primary,Pharoah V. Paige,Democratic,7,0.101382488,0.709677419
+FIL 12 (13),FIL 012,2019,Primary,Tina Sanders,Democratic,3,0.101382488,0.304147465
+FIL 12 (13),FIL 012,2019,Primary,"Blank, Void & Scattering",N/A,0,0.101382488,0
+FIL 12 (13),FIL 013,2019,Primary,Mitch Nowakowski,Democratic,115,0.898617512,103.3410138
+FIL 12 (13),FIL 013,2019,Primary,Gerhardt J. Yaskow,Democratic,33,0.898617512,29.65437788
+FIL 12 (13),FIL 013,2019,Primary,Pharoah V. Paige,Democratic,7,0.898617512,6.290322581
+FIL 12 (13),FIL 013,2019,Primary,Tina Sanders,Democratic,3,0.898617512,2.695852535
+FIL 12 (13),FIL 013,2019,Primary,"Blank, Void & Scattering",N/A,0,0.898617512,0
+FIL 15 (18),FIL 015,2019,Primary,Gerhardt J. Yaskow,Democratic,40,0.343555094,13.74220374
+FIL 15 (18),FIL 015,2019,Primary,Mitch Nowakowski,Democratic,31,0.343555094,10.6502079
+FIL 15 (18),FIL 015,2019,Primary,Tina Sanders,Democratic,30,0.343555094,10.30665281
+FIL 15 (18),FIL 015,2019,Primary,Pharoah V. Paige,Democratic,9,0.343555094,3.091995842
+FIL 15 (18),FIL 015,2019,Primary,"Blank, Void & Scattering",N/A,1,0.343555094,0.343555094
+FIL 15 (18),FIL 018,2019,Primary,Gerhardt J. Yaskow,Democratic,40,0.656444906,26.25779626
+FIL 15 (18),FIL 018,2019,Primary,Mitch Nowakowski,Democratic,31,0.656444906,20.3497921
+FIL 15 (18),FIL 018,2019,Primary,Tina Sanders,Democratic,30,0.656444906,19.69334719
+FIL 15 (18),FIL 018,2019,Primary,Pharoah V. Paige,Democratic,9,0.656444906,5.908004158
+FIL 15 (18),FIL 018,2019,Primary,"Blank, Void & Scattering",N/A,1,0.656444906,0.656444906
+"FIL 2 (4 ,6, 7)",FIL 002,2019,Primary,Mitch Nowakowski,Democratic,90,0.355807988,32.02271894
+"FIL 2 (4 ,6, 7)",FIL 002,2019,Primary,Gerhardt J. Yaskow,Democratic,61,0.355807988,21.70428728
+"FIL 2 (4 ,6, 7)",FIL 002,2019,Primary,Tina Sanders,Democratic,32,0.355807988,11.38585562
+"FIL 2 (4 ,6, 7)",FIL 002,2019,Primary,Pharoah V. Paige,Democratic,5,0.355807988,1.779039941
+"FIL 2 (4 ,6, 7)",FIL 002,2019,Primary,"Blank, Void & Scattering",N/A,2,0.355807988,0.711615977
+"FIL 2 (4 ,6, 7)",FIL 004,2019,Primary,Mitch Nowakowski,Democratic,90,0.164529132,14.80762184
+"FIL 2 (4 ,6, 7)",FIL 004,2019,Primary,Gerhardt J. Yaskow,Democratic,61,0.164529132,10.03627702
+"FIL 2 (4 ,6, 7)",FIL 004,2019,Primary,Tina Sanders,Democratic,32,0.164529132,5.26493221
+"FIL 2 (4 ,6, 7)",FIL 004,2019,Primary,Pharoah V. Paige,Democratic,5,0.164529132,0.822645658
+"FIL 2 (4 ,6, 7)",FIL 004,2019,Primary,"Blank, Void & Scattering",N/A,2,0.164529132,0.329058263
+"FIL 2 (4 ,6, 7)",FIL 006,2019,Primary,Mitch Nowakowski,Democratic,90,0.10773177,9.695859289
+"FIL 2 (4 ,6, 7)",FIL 006,2019,Primary,Gerhardt J. Yaskow,Democratic,61,0.10773177,6.571637963
+"FIL 2 (4 ,6, 7)",FIL 006,2019,Primary,Tina Sanders,Democratic,32,0.10773177,3.447416636
+"FIL 2 (4 ,6, 7)",FIL 006,2019,Primary,Pharoah V. Paige,Democratic,5,0.10773177,0.538658849
+"FIL 2 (4 ,6, 7)",FIL 006,2019,Primary,"Blank, Void & Scattering",N/A,2,0.10773177,0.21546354
+"FIL 2 (4 ,6, 7)",FIL 007,2019,Primary,Mitch Nowakowski,Democratic,90,0.37193111,33.47379993
+"FIL 2 (4 ,6, 7)",FIL 007,2019,Primary,Gerhardt J. Yaskow,Democratic,61,0.37193111,22.68779773
+"FIL 2 (4 ,6, 7)",FIL 007,2019,Primary,Tina Sanders,Democratic,32,0.37193111,11.90179553
+"FIL 2 (4 ,6, 7)",FIL 007,2019,Primary,Pharoah V. Paige,Democratic,5,0.37193111,1.859655551
+"FIL 2 (4 ,6, 7)",FIL 007,2019,Primary,"Blank, Void & Scattering",N/A,2,0.37193111,0.743862221
+"FIL 20 (22, 34)",FIL 020,2019,Primary,Tina Sanders,Democratic,63,0.420485175,26.49056604
+"FIL 20 (22, 34)",FIL 020,2019,Primary,Mitch Nowakowski,Democratic,37,0.420485175,15.55795148
+"FIL 20 (22, 34)",FIL 020,2019,Primary,Pharoah V. Paige,Democratic,15,0.420485175,6.307277628
+"FIL 20 (22, 34)",FIL 020,2019,Primary,Gerhardt J. Yaskow,Democratic,13,0.420485175,5.466307278
+"FIL 20 (22, 34)",FIL 020,2019,Primary,"Blank, Void & Scattering",N/A,1,0.420485175,0.420485175
+"FIL 20 (22, 34)",FIL 022,2019,Primary,Tina Sanders,Democratic,63,0.177897574,11.20754717
+"FIL 20 (22, 34)",FIL 022,2019,Primary,Mitch Nowakowski,Democratic,37,0.177897574,6.582210243
+"FIL 20 (22, 34)",FIL 022,2019,Primary,Pharoah V. Paige,Democratic,15,0.177897574,2.668463612
+"FIL 20 (22, 34)",FIL 022,2019,Primary,Gerhardt J. Yaskow,Democratic,13,0.177897574,2.312668464
+"FIL 20 (22, 34)",FIL 022,2019,Primary,"Blank, Void & Scattering",N/A,1,0.177897574,0.177897574
+"FIL 20 (22, 34)",FIL 034,2019,Primary,Tina Sanders,Democratic,63,0.401617251,25.30188679
+"FIL 20 (22, 34)",FIL 034,2019,Primary,Mitch Nowakowski,Democratic,37,0.401617251,14.85983827
+"FIL 20 (22, 34)",FIL 034,2019,Primary,Pharoah V. Paige,Democratic,15,0.401617251,6.02425876
+"FIL 20 (22, 34)",FIL 034,2019,Primary,Gerhardt J. Yaskow,Democratic,13,0.401617251,5.221024259
+"FIL 20 (22, 34)",FIL 034,2019,Primary,"Blank, Void & Scattering",N/A,1,0.401617251,0.401617251
+FIL 21 (24),FIL 021,2019,Primary,Mitch Nowakowski,Democratic,14,0.42790967,5.990735379
+FIL 21 (24),FIL 021,2019,Primary,Gerhardt J. Yaskow,Democratic,11,0.42790967,4.707006369
+FIL 21 (24),FIL 021,2019,Primary,Tina Sanders,Democratic,11,0.42790967,4.707006369
+FIL 21 (24),FIL 021,2019,Primary,Pharoah V. Paige,Democratic,3,0.42790967,1.28372901
+FIL 21 (24),FIL 021,2019,Primary,"Blank, Void & Scattering",N/A,0,0.42790967,0
+FIL 21 (24),FIL 024,2019,Primary,Mitch Nowakowski,Democratic,14,0.57209033,8.009264621
+FIL 21 (24),FIL 024,2019,Primary,Gerhardt J. Yaskow,Democratic,11,0.57209033,6.292993631
+FIL 21 (24),FIL 024,2019,Primary,Tina Sanders,Democratic,11,0.57209033,6.292993631
+FIL 21 (24),FIL 024,2019,Primary,Pharoah V. Paige,Democratic,3,0.57209033,1.71627099
+FIL 21 (24),FIL 024,2019,Primary,"Blank, Void & Scattering",N/A,0,0.57209033,0
+"FIL 23 (26, 27)",FIL 023,2019,Primary,Mitch Nowakowski,Democratic,47,0.138906962,6.528627196
+"FIL 23 (26, 27)",FIL 023,2019,Primary,Tina Sanders,Democratic,33,0.138906962,4.583929733
+"FIL 23 (26, 27)",FIL 023,2019,Primary,Gerhardt J. Yaskow,Democratic,16,0.138906962,2.222511386
+"FIL 23 (26, 27)",FIL 023,2019,Primary,Pharoah V. Paige,Democratic,7,0.138906962,0.972348731
+"FIL 23 (26, 27)",FIL 023,2019,Primary,"Blank, Void & Scattering",N/A,6,0.138906962,0.83344177
+"FIL 23 (26, 27)",FIL 026,2019,Primary,Mitch Nowakowski,Democratic,47,0.20754717,9.754716981
+"FIL 23 (26, 27)",FIL 026,2019,Primary,Tina Sanders,Democratic,33,0.20754717,6.849056604
+"FIL 23 (26, 27)",FIL 026,2019,Primary,Gerhardt J. Yaskow,Democratic,16,0.20754717,3.320754717
+"FIL 23 (26, 27)",FIL 026,2019,Primary,Pharoah V. Paige,Democratic,7,0.20754717,1.452830189
+"FIL 23 (26, 27)",FIL 026,2019,Primary,"Blank, Void & Scattering",N/A,6,0.20754717,1.245283019
+"FIL 23 (26, 27)",FIL 027,2019,Primary,Mitch Nowakowski,Democratic,47,0.653545869,30.71665582
+"FIL 23 (26, 27)",FIL 027,2019,Primary,Tina Sanders,Democratic,33,0.653545869,21.56701366
+"FIL 23 (26, 27)",FIL 027,2019,Primary,Gerhardt J. Yaskow,Democratic,16,0.653545869,10.4567339
+"FIL 23 (26, 27)",FIL 027,2019,Primary,Pharoah V. Paige,Democratic,7,0.653545869,4.57482108
+"FIL 23 (26, 27)",FIL 027,2019,Primary,"Blank, Void & Scattering",N/A,6,0.653545869,3.921275211
+FIL 25 (28),FIL 025,2019,Primary,Mitch Nowakowski,Democratic,22,0.50148368,11.03264095
+FIL 25 (28),FIL 025,2019,Primary,Tina Sanders,Democratic,17,0.50148368,8.525222552
+FIL 25 (28),FIL 025,2019,Primary,Gerhardt J. Yaskow,Democratic,15,0.50148368,7.522255193
+FIL 25 (28),FIL 025,2019,Primary,Pharoah V. Paige,Democratic,7,0.50148368,3.510385757
+FIL 25 (28),FIL 025,2019,Primary,"Blank, Void & Scattering",N/A,0,0.50148368,0
+FIL 25 (28),FIL 028,2019,Primary,Mitch Nowakowski,Democratic,22,0.49851632,10.96735905
+FIL 25 (28),FIL 028,2019,Primary,Tina Sanders,Democratic,17,0.49851632,8.474777448
+FIL 25 (28),FIL 028,2019,Primary,Gerhardt J. Yaskow,Democratic,15,0.49851632,7.477744807
+FIL 25 (28),FIL 028,2019,Primary,Pharoah V. Paige,Democratic,7,0.49851632,3.489614243
+FIL 25 (28),FIL 028,2019,Primary,"Blank, Void & Scattering",N/A,0,0.49851632,0
+FIL 29 (30),FIL 029,2019,Primary,Pharoah V. Paige,Democratic,44,0.485026042,21.34114583
+FIL 29 (30),FIL 029,2019,Primary,Tina Sanders,Democratic,43,0.485026042,20.85611979
+FIL 29 (30),FIL 029,2019,Primary,Mitch Nowakowski,Democratic,27,0.485026042,13.09570313
+FIL 29 (30),FIL 029,2019,Primary,Gerhardt J. Yaskow,Democratic,12,0.485026042,5.8203125
+FIL 29 (30),FIL 029,2019,Primary,"Blank, Void & Scattering",N/A,11,0.485026042,5.335286458
+FIL 29 (30),FIL 030,2019,Primary,Pharoah V. Paige,Democratic,44,0.514973958,22.65885417
+FIL 29 (30),FIL 030,2019,Primary,Tina Sanders,Democratic,43,0.514973958,22.14388021
+FIL 29 (30),FIL 030,2019,Primary,Mitch Nowakowski,Democratic,27,0.514973958,13.90429688
+FIL 29 (30),FIL 030,2019,Primary,Gerhardt J. Yaskow,Democratic,12,0.514973958,6.1796875
+FIL 29 (30),FIL 030,2019,Primary,"Blank, Void & Scattering",N/A,11,0.514973958,5.664713542
+FIL 32 (33),FIL 032,2019,Primary,Tina Sanders,Democratic,26,0.463581184,12.05311077
+FIL 32 (33),FIL 032,2019,Primary,Mitch Nowakowski,Democratic,13,0.463581184,6.026555387
+FIL 32 (33),FIL 032,2019,Primary,Pharoah V. Paige,Democratic,10,0.463581184,4.635811836
+FIL 32 (33),FIL 032,2019,Primary,Gerhardt J. Yaskow,Democratic,7,0.463581184,3.245068285
+FIL 32 (33),FIL 032,2019,Primary,"Blank, Void & Scattering",N/A,2,0.463581184,0.927162367
+FIL 32 (33),FIL 033,2019,Primary,Tina Sanders,Democratic,26,0.536418816,13.94688923
+FIL 32 (33),FIL 033,2019,Primary,Mitch Nowakowski,Democratic,13,0.536418816,6.973444613
+FIL 32 (33),FIL 033,2019,Primary,Pharoah V. Paige,Democratic,10,0.536418816,5.364188164
+FIL 32 (33),FIL 033,2019,Primary,Gerhardt J. Yaskow,Democratic,7,0.536418816,3.754931715
+FIL 32 (33),FIL 033,2019,Primary,"Blank, Void & Scattering",N/A,2,0.536418816,1.072837633
